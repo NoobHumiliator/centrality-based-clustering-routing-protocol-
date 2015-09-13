@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/7/2 13:05:25。
+     1>项目“C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\ConsoleApplication1.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+     1>ConsoleApplication1.cpp(781): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(992): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1051): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1115): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1140): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1181): warning C4018: “>”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1260): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1311): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1389): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1396): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1401): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1413): warning C4018: “>”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1449): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1458): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1468): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1473): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1479): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1490): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1544): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1562): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1630): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1648): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1879): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1893): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(1925): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2087): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2288): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2328): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2391): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2416): warning C4018: “<”: 有符号/无符号不匹配
+     1>ConsoleApplication1.cpp(2650): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\Release\ConsoleApplication1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\Release\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\Release\ConsoleApplication1.lib" /MACHINE:X86 /SAFESEH Release\ConsoleApplication1.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         ConsoleApplication1.vcxproj -> C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\Release\ConsoleApplication1.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\毕业论文  基于中心度的车联网 6.14 加入新的分簇协议\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.88
